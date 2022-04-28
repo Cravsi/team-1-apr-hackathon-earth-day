@@ -23,6 +23,7 @@ EaRRRth is an environmentaly focused, community based responsive web application
 - **Shaun Bonner**
 - **Aws Sabah Gheni**
 ### Deployed Website
+https://earrrth.herokuapp.com/
 By clicking the hyperlinked header above, you can access the final deployed site hosted on Heroku.
 
 ### Site Demonstration 
